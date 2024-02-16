@@ -1,1 +1,1 @@
-# Task2-JS-CheckBox
+# Second Task in Training 
